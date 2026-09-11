@@ -141,6 +141,7 @@ namespace Лб1
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
+
             Console.InputEncoding = Encoding.UTF8;
 
             var db = new UniversityDatabase();
